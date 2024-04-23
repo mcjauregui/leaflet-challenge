@@ -1,5 +1,5 @@
 # leaflet-challenge
-Challenge 15
+Challenge 15, Part 1
 Note: Please see logicmap.js (not logic.js) for the JavaScript used to complete this project. 
 
 The United States Geological Survey, USGS, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -13,3 +13,4 @@ leaflet-challenge-map.png
 QuakeExample.png
 ![QuakeExample](https://github.com/mcjauregui/leaflet-challenge/assets/151464511/cfda3353-946b-4354-8961-5b680b7ddd71)
 
+The JSON filed used to build this tool was downloaded from "Past 7 Days, All Earthquakes' link at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php. 
