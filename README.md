@@ -13,7 +13,7 @@ leaflet-challenge-map.png
 QuakeExample.png
 ![QuakeExample](https://github.com/mcjauregui/leaflet-challenge/assets/151464511/cfda3353-946b-4354-8961-5b680b7ddd71)
 
-The JSON filed used to build this tool was downloaded from "Past 7 Days, All Earthquakes' link at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php. In prettyprint format, the beginning of the JSON file looked like this:
+The JSON file used to build this tool was downloaded from "Past 7 Days, All Earthquakes' link at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php. In prettyprint format, the beginning of the JSON file looked like this:
 JSON.png
 ![JSON](https://github.com/mcjauregui/leaflet-challenge/assets/151464511/3b574f74-2d9c-4c3a-b97b-d9c4f75c5597)
 
