@@ -8,3 +8,23 @@ body,
 html {
   height: 100%;
 }
+
+/* Define CSS styling for legend */
+.info.legend {
+  background: white;
+  padding: 6px 8px;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+/* Define CSS styling for legend colors */
+.info.legend i {
+  display: inline-block;
+  width: 20px; /* Adjust width as needed */
+  height: 20px; /* Adjust height as needed */
+  margin-right: 5px; /* Add margin between color and text */
+  border-radius: 50%; /* Make the color circle */
+}
