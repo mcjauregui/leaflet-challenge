@@ -76,7 +76,7 @@ function createFeatures(earthquakeData) {
         var legend = L.control({position: "bottomright"});
         legend.onAdd = function(map) {
             var div = L.DomUtil.create("div", "info legend"),
-                depth = [10, 30, 50, 70, 90];
+                depth = [-10, 10, 30, 50, 70, 90];
 
            for (var i = 0; i < depth.length; i++) {
                div.innerHTML += '<i style="background:' + chooseColor(depth[i] + 1) + '"></i> ' + depth[i] + (depth[i + 1] ? '&ndash;' + depth[i + 1] + '<br>' : '+');
